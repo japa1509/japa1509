@@ -13,10 +13,12 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git " width="50" height="50"/> </a> 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
-- ---
+ --- ---
 ### Mis estadisticas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japa1509)](https://github.com/anuraghazra/github-readme-stats)
-[![japa1509's GitHub stats](https://github-readme-stats.vercel.app/api?username=japa1509)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa1509&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=japa1509&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div>
 #
 <!---
 japa1509/japa1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
