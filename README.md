@@ -1,6 +1,9 @@
-### Hi there 👋 Soy un desarrollador web apasionado por la tecnologia con ganas de aprender algo nuevo todos los dias y crear proyectos. Actualmente me encuentro estudiando Desarrollo Frontend con Reactjs en Platzi.
-<!-- Mis skills-->
+<h1> Hi there 👋 I'm Jesús Alejandro Pérez </h1>
+<!-- -->
+<h3>Soy un desarrollador web apasionado por la tecnologia con ganas de aprender algo nuevo todos los dias y crear proyectos. Actualmente me encuentro estudiando Desarrollo Frontend con Reactjs en Platzi.</h3>
+
 ----
+
 <h3 align="center">Languages and Tools</h3>
 <div align="center"> 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
