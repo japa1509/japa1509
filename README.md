@@ -6,8 +6,6 @@ Soy un desarrollador web apasionado por la tecnologia, amante de los desafios y 
 
 Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Estos son algunos de mis mejores proyectos.
 
-----
-
 ## Languages and Tools
 <div align="center"> 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
@@ -20,7 +18,6 @@ Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apre
 </div>
 <!-- GitHub Statistics -->
 
-----
 ## GitHub Statistics
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa1509&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
