@@ -1,6 +1,8 @@
 <h1> Hi there 👋 I'm Jesús Alejandro Pérez </h1>
 <!--Description -->
-Soy un desarrollador web apasionado por la tecnologia, amante de los desafios y autodidacta, con ganas de aprender algo nuevo todos los dias y crear proyectos. Actualmente me encuentro estudiando Desarrollo Frontend con React.js en Platzi. Mi objetivo es crecer como profesional, alcanzar un alto nivel en lo que me apasiona y  crear grandes aplicaciones Web.
+
+Soy un desarrollador web apasionado por la tecnología, amante de los desafíos y autodidacta, con ganas de aprender algo nuevo todos los días y crear proyectos. Actualmente, me encuentro estudiando Desarrollo Frontend con React.js en Platzi. Mi objetivo es crecer como profesional, alcanzar un alto nivel en lo que me apasiona y crear grandes aplicaciones Web.
+
 
 ## My projects
 
