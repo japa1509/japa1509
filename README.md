@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Soy un desarrollador web apasionado por la tecnologia con ganas de aprender algo nuevo todos los dias y crear proyectos. Actualmente me encuentro estudiando Desarrollo Frontend con Reactjs en Platzi.
 <!-- Mis skills-->
 ----
 <h3 align="center">Languages and Tools</h3>
