@@ -2,6 +2,12 @@
 <!-- -->
 <h3>Soy un desarrollador web apasionado por la tecnologia con ganas de aprender algo nuevo todos los dias y crear proyectos. Actualmente me encuentro estudiando Desarrollo Frontend con Reactjs en Platzi.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesus-perez-24020a197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesus-perez-24020a197/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100001838852841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100001838852841" height="30" width="40" /></a>
+</p>
+
 ----
 
 <h3 align="center">Languages and Tools</h3>
