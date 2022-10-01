@@ -1,6 +1,8 @@
 ### Hi there 👋
 <!-- Mis skills-->
-### Languages and tools
+----
+<h3 align="center">Languages and Tools</h3>
+<div align="center"> 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
@@ -10,11 +12,12 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git " width="50" height="50"/> </a> 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
-
+</div>
 <!-- GitHub Statistics -->
----
-### GitHub Statistics
-<div align="left">
+
+----
+<h3 align="center">GitHub Statistics</h3>
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa1509&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=japa1509&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div>
