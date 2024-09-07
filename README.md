@@ -1,7 +1,8 @@
-<h1> Hi there 👋 I'm Jesús Alejandro Pérez </h1>
-<!--Description -->
+<!--Banner perfil -->
+<img height="300px" width="100%" src="https://github.com/japa1509/japa1509/blob/main/Banner-GitHub.png"/>
 
-Soy un desarrollador web apasionado por la tecnología, amante de los desafíos y autodidacta, con ganas de aprender algo nuevo todos los días y crear proyectos. Actualmente, me encuentro estudiando Desarrollo Frontend con React.js en Platzi. Mi objetivo es crecer como profesional, alcanzar un alto nivel en lo que me apasiona y crear grandes aplicaciones Web.
+<!--Description -->
+Soy un desarrollador web con ganas de aprender algo nuevo todos los días y aplicarlo a mis proyectos. Actualmente, me encuentro estudiando Desarrollo Frontend con React.js de manera autodidacta. Mi objetivo es superarme constantemente, alcanzar un alto nivel en lo que me apasiona y construir aplicaciones web que marquen la diferencia.
 
 
 ## My projects
@@ -14,6 +15,7 @@ Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apre
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+  <img  src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git " width="50" height="50"/> </a> 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
