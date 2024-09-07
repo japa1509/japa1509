@@ -14,7 +14,7 @@ Soy un desarrollador web con ganas de aprender algo nuevo todos los días y apli
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
 </div>
 
-### My projects
+### 🚀 My projects
 
 Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Estos son algunos de mis mejores proyectos.
 
