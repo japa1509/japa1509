@@ -3,13 +3,6 @@
 
 <!--Description -->
 Soy un desarrollador web con ganas de aprender algo nuevo todos los días y aplicarlo a mis proyectos. Actualmente, me encuentro estudiando Desarrollo Frontend con React.js de manera autodidacta. Mi objetivo es superarme constantemente, alcanzar un alto nivel en lo que me apasiona y construir aplicaciones web que marquen la diferencia.
-
-
-## My projects
-
-Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Estos son algunos de mis mejores proyectos.
-
-## Languages and Tools
 <div align="center"> 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -20,9 +13,47 @@ Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apre
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git " width="50" height="50"/> </a> 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;
 </div>
+
+### My projects
+
+Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir aprendiendo sobre nuevas tecnologías. Estos son algunos de mis mejores proyectos.
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project 1</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/japa1509/japa1509/blob/main/portafolio-img.png" width="400" alt="Curso básico android"></a>
+<p>
+  <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">project 2</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/japa1509/japa1509/blob/main/portafolio-img.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>  
+<br>
+
+
 <!-- GitHub Statistics -->
 
-## GitHub Statistics
+### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japa1509&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=japa1509&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
