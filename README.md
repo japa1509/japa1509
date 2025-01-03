@@ -25,7 +25,7 @@ Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apre
 <div align="center">
 <a href="https://github.com/japa1509/Kiyo-Store" target="_blank"><img src="https://github.com/japa1509/Kiyo-Store/blob/main/public/KiyoStore.webp" width="400" alt="Curso básico android"></a>
 <p>
-  <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+  <a href="https://github.com/japa1509/Kiyo-Store" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
