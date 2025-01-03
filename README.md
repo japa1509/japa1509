@@ -21,15 +21,15 @@ Me encanta hacer proyectos para aumentar mis habilidades técnicas y seguir apre
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project 1</h3>
+<h3 align="center">KiyoStore</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/japa1509/japa1509/blob/main/portafolio-img.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/japa1509/Kiyo-Store" target="_blank"><img src="https://github.com/japa1509/Kiyo-Store/blob/main/public/KiyoStore.webp" width="400" alt="Curso básico android"></a>
 <p>
   <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> KiyoStore es una moderna y completa aplicación de e-commerce desarrollada con React.js, Tailwind CSS, y Firebase. Diseñada para proporcionar una experiencia de usuario ágil, atractiva y funcional, cuenta con características como autenticación, gestión de carrito, filtros, y más.</p>
 </div>
                                                                                       
 </td>
